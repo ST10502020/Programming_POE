@@ -1,0 +1,37 @@
+[
+    {
+        "sender": "corl_",
+        "recipient": "987654321",
+        "messageId": "3597384070",
+        "messageHash": "35:2:HOW'SGOING?",
+        "message": "How's your day going?"
+    },
+    {
+        "sender": "corl_",
+        "recipient": "987654321",
+        "messageId": "9900935528",
+        "messageHash": "99:3:GREATBETTER",
+        "message": "Great honestly it could be better"
+    },
+    {
+        "sender": "corl_",
+        "recipient": "234567891",
+        "messageId": "2150885000",
+        "messageHash": "21:1:GOODCONCERN",
+        "message": "Good afternoon to whomever it may concern"
+    },
+    {
+        "sender": "corl_",
+        "recipient": "234567891",
+        "messageId": "2108262524",
+        "messageHash": "21:2:GOODEVENING",
+        "message": "Good evening"
+    },
+    {
+        "sender": "corl_",
+        "recipient": "234567891",
+        "messageId": "5943509111",
+        "messageHash": "59:3:FOODTHINK",
+        "message": "food is great don't you think"
+    }
+]
